@@ -1,0 +1,4 @@
+mysql://b73f600238005b:7d8077f6@us-cdbr-east-05.cleardb.net/heroku_fdbd0247998c721?reconnect=true
+
+CLEARDB_CHARCOAL_URL: mysql://b40e06e06867ca:246085b8@us-cdbr-east-05.cleardb.net/heroku_0cfeabe2c620da6?reconnect=true
+CLEARDB_DATABASE_URL: mysql://b73f600238005b:7d8077f6@us-cdbr-east-05.cleardb.net/heroku_fdbd0247998c721?reconnect=true
